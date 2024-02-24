@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/stylelint": "^14.0.0",
+    "postcss-styled-syntax": "^0.6.4",
+    "stylelint": "^16.2.1",
+    "stylelint-config-standard": "^36.0.0"
+  },
+  "scripts": {
+    "lint:css": "stylelint style.css"
+  }
+}

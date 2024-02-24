@@ -1,0 +1,5 @@
+-c config
+-r recursive
+-d outDir
+-R readme Defaultls to README.md in the rootDir
+-T tests

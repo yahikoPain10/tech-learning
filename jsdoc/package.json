@@ -1,8 +1,11 @@
 {
+  "name": "learn-jsdoc",
+  "version": "1.0.0",
   "devDependencies": {
+    "docdash": "^2.0.2",
     "jsdoc": "^4.0.2"
   },
   "scripts": {
-    "doc": "jsdoc -c jsdoc.config.json"
+    "doc": "jsdoc -c jsdoc.config.js"
   }
 }

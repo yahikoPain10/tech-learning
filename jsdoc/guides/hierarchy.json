@@ -1,0 +1,17 @@
+{
+  "overview": {
+    "title": "Overview",
+    "children": ["definition", "history", "behavior"]
+  },
+  "implementation": {
+    "title": "Implementation",
+    "children": {
+      "factorial-in-c": {
+        "title": "Implementation in C"
+      },
+      "factorial-in-js": {
+        "title": "Implementation in JavaScript"
+      }
+    }
+  }
+}
